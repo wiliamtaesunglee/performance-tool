@@ -1,5 +1,6 @@
 import React from 'react';
+import { Sidebar } from './Sidebar';
 
 export const Content = () => (
-  <div>content</div>
+  <Sidebar/>
 )
